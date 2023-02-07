@@ -1,0 +1,7 @@
+name: EconomyAPI
+main: ojy\EconomyAPI\EconomyAPI
+author: ojy
+api: 4.0.0
+version: B1
+
+src-namespace-prefix: ojy\EconomyAPI
